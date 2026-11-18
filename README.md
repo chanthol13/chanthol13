@@ -1,50 +1,46 @@
-## Hi there 👋 I'm Chanthol! 👋
+Hi, I'm Chanthol! 👋
 
 🎓 Computer Science Master's Student
 
-🎓 Bachelor's Degree in Telecommunications and Electronic Engineering.
+I am a Telecommunications and Electronic Engineering graduate currently pursuing my Master's degree in Computer Science.
 
-Technical Interests
+👩‍💻 About Me
+
+🎓 Background in Telecommunications and Electronic Engineering.
+
+📚 Currently studying Computer Science.
+
+🤖 Interested in Artificial Intelligence and Machine Learning.
+
+🌐 Interested in Computer Networking and Cybersecurity.
+
+🛠️ Technical Skills
 
 Python Programming
 
-Artificial Intelligence & Machine Learning
+Machine Learning
 
-Data Science
+Data Analysis
 
 Computer Networking
 
-Cybersecurity
+Electronics and Telecommunications
 
-Technical Background
+🌱 Currently Learning
 
-Networking and Security
+Python and Problem Solving
 
-Python Programming
+Machine Learning Fundamentals
 
-Machine Learning Coursework
+🎯 My Goals
 
-Data Analysis and Visualization
+Develop practical technical projects.
 
-Telecommunications and Electronics
+Improve my programming skills.
 
-Currently Learning
+Explore AI and emerging technologies.
 
-Improving my programming skills and developing practical projects in Computer Science.
+Share my learning journey and projects.
 
-Thank you for visiting my GitHub profile!
 
-<!--
-**chanthol13/chanthol13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! ⭐
